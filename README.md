@@ -22,7 +22,7 @@ It's a text editor, hosted online by Heroku. You can download it and use it offl
 Go to the live link above and type to your heart's content. There's an install button, you can't miss it, download the app and type, _offline_, to your heart's content.
 
 ## Demo
-demo image coming with next README update
+
 ![demo](/client/src/images/JATE.png)
 
 
