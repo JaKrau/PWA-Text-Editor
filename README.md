@@ -23,7 +23,7 @@ Go to the live link above and type to your heart's content. There's an install b
 
 ## Demo
 demo image coming with next README update
-![demo](/public/images/home.png)
+![demo](/client/src/images/JATE.png)
 
 
 
